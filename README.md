@@ -1,6 +1,6 @@
 # LaraNews
 
-Bu proje, Next.js ve Laravel uygulamalarını içermektedir ve kullanıcılara güncel haberleri görüntüleme ve keşfetme imkanı sunar. Temel amacı, kullanıcılara güncel haberleri sağlamak ve haber detaylarını göstermektir.
+Bu proje, Next.js ve Laravel uygulamalarını içermektedir ve kullanıcılara güncel haberleri görüntüleme ve keşfetme imkanı sunar. Temel amacı, haberleri yöneten bir API ve bu API'yi kullanarak temel bir web uygulamasını içermektedir. Kullanıcılara güncel haberleri sağlamak ve haber detaylarını göstermek amaçlanmıştır.
 
 ## Özellikler
 
