@@ -1,4 +1,4 @@
-# Haber Projesi
+# LaraNews
 
 Bu proje, Next.js ve Laravel uygulamalarını içermektedir ve kullanıcılara güncel haberleri görüntüleme ve keşfetme imkanı sunar. Temel amacı, kullanıcılara güncel haberleri sağlamak ve haber detaylarını göstermektir.
 
